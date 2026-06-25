@@ -6,3 +6,4 @@ pypdf
 python-dotenv
 pydantic
 fpdf2
+chromadb
